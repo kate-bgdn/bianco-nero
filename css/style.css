@@ -1,0 +1,46 @@
+* {
+    margin: 0;
+}
+
+header {
+    border: 20px solid #af2024;
+    margin-bottom: 21px;
+}
+
+.content {
+    max-width: 960px;
+    margin: auto;
+}
+
+img {
+    position: relative;
+    z-index: 1;
+}
+
+.rectangle {
+    width: 280px;
+    height: 77px;
+    background-color: #af2024;
+    border-right: #0a0203 solid 3px;
+
+    position: relative;
+    top: -92px;
+    left: 70px;
+    z-index: 0;
+
+
+}
+
+.video-area {
+    max-width: 710px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 20px;
+    font-weight: normal;
+    color: white;
+    background-color: #98161b;
+
+    padding: 30px 15px 28px;
+}
