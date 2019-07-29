@@ -38,6 +38,7 @@ img {
 .video-area {
     max-width: 710px;
     margin: auto;
+    background-color: white;
 }
 
 h1 {
@@ -51,4 +52,9 @@ h1 {
 
 .box {
     padding: 60px 75px;
+}
+
+h2 {
+    font-size: 13px;
+    font-weight: normal;
 }
