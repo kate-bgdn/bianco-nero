@@ -23,6 +23,10 @@
     margin: 0;
 }
 
+body {
+    background-color: black;
+}
+
 header {
     border: 20px solid #af2024;
     margin-bottom: 21px;
@@ -131,4 +135,8 @@ span.play {
     top: 50%;
     left: 50%;
     margin: -20px 0 0 -20px;
+}
+
+footer {
+    height: 400px;
 }
