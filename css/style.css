@@ -12,6 +12,10 @@ header {
     margin: auto;
 }
 
+.bg {
+    background-image: url("../images/bg.png");
+}
+
 img {
     position: relative;
     z-index: 1;
